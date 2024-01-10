@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Vaikkaekaharjoitus, Configuration: Debug|AnyCPU ------
+1>  Vaikkaekaharjoitus -> C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\bin\Debug\net6.0\Vaikkaekaharjoitus.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

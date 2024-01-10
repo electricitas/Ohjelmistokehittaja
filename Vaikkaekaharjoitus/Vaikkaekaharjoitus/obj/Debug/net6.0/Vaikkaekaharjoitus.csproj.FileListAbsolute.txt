@@ -1,0 +1,15 @@
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\bin\Debug\net6.0\Vaikkaekaharjoitus.exe
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\bin\Debug\net6.0\Vaikkaekaharjoitus.deps.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\bin\Debug\net6.0\Vaikkaekaharjoitus.runtimeconfig.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\bin\Debug\net6.0\Vaikkaekaharjoitus.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\bin\Debug\net6.0\Vaikkaekaharjoitus.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\obj\Debug\net6.0\Vaikkaekaharjoitus.csproj.AssemblyReference.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\obj\Debug\net6.0\Vaikkaekaharjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\obj\Debug\net6.0\Vaikkaekaharjoitus.AssemblyInfoInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\obj\Debug\net6.0\Vaikkaekaharjoitus.AssemblyInfo.cs
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\obj\Debug\net6.0\Vaikkaekaharjoitus.csproj.CoreCompileInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\obj\Debug\net6.0\Vaikkaekaharjoitus.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\obj\Debug\net6.0\refint\Vaikkaekaharjoitus.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\obj\Debug\net6.0\Vaikkaekaharjoitus.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\obj\Debug\net6.0\Vaikkaekaharjoitus.genruntimeconfig.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\Vaikkaekaharjoitus\Vaikkaekaharjoitus\obj\Debug\net6.0\ref\Vaikkaekaharjoitus.dll
