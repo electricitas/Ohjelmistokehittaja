@@ -1,0 +1,17 @@
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\bin\Debug\net6.0-windows\T1.exe
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\bin\Debug\net6.0-windows\T1.deps.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\bin\Debug\net6.0-windows\T1.runtimeconfig.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\bin\Debug\net6.0-windows\T1.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\bin\Debug\net6.0-windows\T1.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\T1.csproj.AssemblyReference.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\T1.T1FORM.resources
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\T1.csproj.GenerateResource.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\T1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\T1.AssemblyInfoInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\T1.AssemblyInfo.cs
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\T1.csproj.CoreCompileInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\T1.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\refint\T1.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\T1.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\T1.genruntimeconfig.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T1\T1\obj\Debug\net6.0-windows\ref\T1.dll
