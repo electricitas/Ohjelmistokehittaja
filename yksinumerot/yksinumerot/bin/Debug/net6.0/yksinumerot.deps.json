@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "yksinumerot/1.0.0": {
+        "runtime": {
+          "yksinumerot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "yksinumerot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\bin\Debug\net6.0\yksinumerot.exe
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\bin\Debug\net6.0\yksinumerot.deps.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\bin\Debug\net6.0\yksinumerot.runtimeconfig.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\bin\Debug\net6.0\yksinumerot.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\bin\Debug\net6.0\yksinumerot.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\obj\Debug\net6.0\yksinumerot.csproj.AssemblyReference.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\obj\Debug\net6.0\yksinumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\obj\Debug\net6.0\yksinumerot.AssemblyInfoInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\obj\Debug\net6.0\yksinumerot.AssemblyInfo.cs
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\obj\Debug\net6.0\yksinumerot.csproj.CoreCompileInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\obj\Debug\net6.0\yksinumerot.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\obj\Debug\net6.0\refint\yksinumerot.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\obj\Debug\net6.0\yksinumerot.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\obj\Debug\net6.0\yksinumerot.genruntimeconfig.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\yksinumerot\yksinumerot\obj\Debug\net6.0\ref\yksinumerot.dll
