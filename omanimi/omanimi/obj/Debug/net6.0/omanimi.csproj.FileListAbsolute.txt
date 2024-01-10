@@ -1,0 +1,15 @@
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\bin\Debug\net6.0\omanimi.exe
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\bin\Debug\net6.0\omanimi.deps.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\bin\Debug\net6.0\omanimi.runtimeconfig.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\bin\Debug\net6.0\omanimi.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\bin\Debug\net6.0\omanimi.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\obj\Debug\net6.0\omanimi.csproj.AssemblyReference.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\obj\Debug\net6.0\omanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\obj\Debug\net6.0\omanimi.AssemblyInfoInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\obj\Debug\net6.0\omanimi.AssemblyInfo.cs
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\obj\Debug\net6.0\omanimi.csproj.CoreCompileInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\obj\Debug\net6.0\omanimi.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\obj\Debug\net6.0\refint\omanimi.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\obj\Debug\net6.0\omanimi.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\obj\Debug\net6.0\omanimi.genruntimeconfig.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\omanimi\omanimi\obj\Debug\net6.0\ref\omanimi.dll
