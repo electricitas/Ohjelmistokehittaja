@@ -1,0 +1,15 @@
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\bin\Debug\net6.0\nimenluku.exe
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\bin\Debug\net6.0\nimenluku.deps.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\bin\Debug\net6.0\nimenluku.runtimeconfig.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\bin\Debug\net6.0\nimenluku.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\bin\Debug\net6.0\nimenluku.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\obj\Debug\net6.0\nimenluku.csproj.AssemblyReference.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\obj\Debug\net6.0\nimenluku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\obj\Debug\net6.0\nimenluku.AssemblyInfoInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\obj\Debug\net6.0\nimenluku.AssemblyInfo.cs
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\obj\Debug\net6.0\nimenluku.csproj.CoreCompileInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\obj\Debug\net6.0\nimenluku.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\obj\Debug\net6.0\refint\nimenluku.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\obj\Debug\net6.0\nimenluku.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\obj\Debug\net6.0\nimenluku.genruntimeconfig.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\nimenluku\nimenluku\obj\Debug\net6.0\ref\nimenluku.dll
