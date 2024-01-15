@@ -1,0 +1,16 @@
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\bin\Debug\net6.0-windows\3 harjoitus.exe
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\bin\Debug\net6.0-windows\3 harjoitus.deps.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\bin\Debug\net6.0-windows\3 harjoitus.runtimeconfig.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\bin\Debug\net6.0-windows\3 harjoitus.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\bin\Debug\net6.0-windows\3 harjoitus.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\obj\Debug\net6.0-windows\_3_harjoitus.Form1.resources
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\obj\Debug\net6.0-windows\3 harjoitus.csproj.GenerateResource.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\obj\Debug\net6.0-windows\3 harjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\obj\Debug\net6.0-windows\3 harjoitus.AssemblyInfoInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\obj\Debug\net6.0-windows\3 harjoitus.AssemblyInfo.cs
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\obj\Debug\net6.0-windows\3 harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\obj\Debug\net6.0-windows\3 harjoitus.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\obj\Debug\net6.0-windows\refint\3 harjoitus.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\obj\Debug\net6.0-windows\3 harjoitus.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\obj\Debug\net6.0-windows\3 harjoitus.genruntimeconfig.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\3 harjoitus\3 harjoitus\obj\Debug\net6.0-windows\ref\3 harjoitus.dll
