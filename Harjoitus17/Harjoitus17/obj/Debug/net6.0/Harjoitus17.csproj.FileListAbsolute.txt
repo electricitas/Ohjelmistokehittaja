@@ -1,0 +1,14 @@
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\bin\Debug\net6.0\Harjoitus17.exe
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\bin\Debug\net6.0\Harjoitus17.deps.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\bin\Debug\net6.0\Harjoitus17.runtimeconfig.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\bin\Debug\net6.0\Harjoitus17.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\bin\Debug\net6.0\Harjoitus17.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\obj\Debug\net6.0\Harjoitus17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\obj\Debug\net6.0\Harjoitus17.AssemblyInfoInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\obj\Debug\net6.0\Harjoitus17.AssemblyInfo.cs
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\obj\Debug\net6.0\Harjoitus17.csproj.CoreCompileInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\obj\Debug\net6.0\Harjoitus17.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\obj\Debug\net6.0\refint\Harjoitus17.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\obj\Debug\net6.0\Harjoitus17.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\obj\Debug\net6.0\Harjoitus17.genruntimeconfig.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\Harjoitus17\Harjoitus17\obj\Debug\net6.0\ref\Harjoitus17.dll
