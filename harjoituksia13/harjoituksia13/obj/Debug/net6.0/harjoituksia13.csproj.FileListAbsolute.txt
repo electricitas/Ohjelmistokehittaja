@@ -1,0 +1,14 @@
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\bin\Debug\net6.0\harjoituksia13.exe
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\bin\Debug\net6.0\harjoituksia13.deps.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\bin\Debug\net6.0\harjoituksia13.runtimeconfig.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\bin\Debug\net6.0\harjoituksia13.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\bin\Debug\net6.0\harjoituksia13.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\obj\Debug\net6.0\harjoituksia13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\obj\Debug\net6.0\harjoituksia13.AssemblyInfoInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\obj\Debug\net6.0\harjoituksia13.AssemblyInfo.cs
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\obj\Debug\net6.0\harjoituksia13.csproj.CoreCompileInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\obj\Debug\net6.0\harjoituksia13.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\obj\Debug\net6.0\refint\harjoituksia13.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\obj\Debug\net6.0\harjoituksia13.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\obj\Debug\net6.0\harjoituksia13.genruntimeconfig.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\harjoituksia13\harjoituksia13\obj\Debug\net6.0\ref\harjoituksia13.dll
