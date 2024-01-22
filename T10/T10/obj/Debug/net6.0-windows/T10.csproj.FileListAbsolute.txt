@@ -1,0 +1,17 @@
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\T10.csproj.AssemblyReference.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\T10.BMIForm.resources
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\T10.csproj.GenerateResource.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\T10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\T10.AssemblyInfoInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\T10.AssemblyInfo.cs
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\T10.csproj.CoreCompileInputs.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\bin\Debug\net6.0-windows\T10.exe
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\bin\Debug\net6.0-windows\T10.deps.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\bin\Debug\net6.0-windows\T10.runtimeconfig.json
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\bin\Debug\net6.0-windows\T10.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\bin\Debug\net6.0-windows\T10.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\T10.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\refint\T10.dll
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\T10.pdb
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\T10.genruntimeconfig.cache
+C:\Users\panu.eklund\source\repos\Ohjelmistokehittaja\T10\T10\obj\Debug\net6.0-windows\ref\T10.dll
