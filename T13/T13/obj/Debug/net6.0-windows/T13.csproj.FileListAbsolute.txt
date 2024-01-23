@@ -1,0 +1,16 @@
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\bin\Debug\net6.0-windows\T13.exe
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\bin\Debug\net6.0-windows\T13.deps.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\bin\Debug\net6.0-windows\T13.runtimeconfig.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\bin\Debug\net6.0-windows\T13.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\bin\Debug\net6.0-windows\T13.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\obj\Debug\net6.0-windows\T13.NimiForm.resources
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\obj\Debug\net6.0-windows\T13.csproj.GenerateResource.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\obj\Debug\net6.0-windows\T13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\obj\Debug\net6.0-windows\T13.AssemblyInfoInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\obj\Debug\net6.0-windows\T13.AssemblyInfo.cs
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\obj\Debug\net6.0-windows\T13.csproj.CoreCompileInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\obj\Debug\net6.0-windows\T13.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\obj\Debug\net6.0-windows\refint\T13.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\obj\Debug\net6.0-windows\T13.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\obj\Debug\net6.0-windows\T13.genruntimeconfig.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T13\T13\obj\Debug\net6.0-windows\ref\T13.dll
