@@ -1,0 +1,16 @@
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\obj\Debug\net6.0-windows\T12.VastauksiaForm.resources
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\obj\Debug\net6.0-windows\T12.csproj.GenerateResource.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\obj\Debug\net6.0-windows\T12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\obj\Debug\net6.0-windows\T12.AssemblyInfoInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\obj\Debug\net6.0-windows\T12.AssemblyInfo.cs
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\obj\Debug\net6.0-windows\T12.csproj.CoreCompileInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\bin\Debug\net6.0-windows\T12.exe
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\bin\Debug\net6.0-windows\T12.deps.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\bin\Debug\net6.0-windows\T12.runtimeconfig.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\bin\Debug\net6.0-windows\T12.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\bin\Debug\net6.0-windows\T12.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\obj\Debug\net6.0-windows\T12.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\obj\Debug\net6.0-windows\refint\T12.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\obj\Debug\net6.0-windows\T12.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\obj\Debug\net6.0-windows\T12.genruntimeconfig.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T12\T12\obj\Debug\net6.0-windows\ref\T12.dll
