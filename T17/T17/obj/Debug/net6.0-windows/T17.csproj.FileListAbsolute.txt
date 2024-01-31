@@ -1,0 +1,16 @@
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\bin\Debug\net6.0-windows\T17.exe
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\bin\Debug\net6.0-windows\T17.deps.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\bin\Debug\net6.0-windows\T17.runtimeconfig.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\bin\Debug\net6.0-windows\T17.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\bin\Debug\net6.0-windows\T17.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\obj\Debug\net6.0-windows\T17.MuistioForm.resources
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\obj\Debug\net6.0-windows\T17.csproj.GenerateResource.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\obj\Debug\net6.0-windows\T17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\obj\Debug\net6.0-windows\T17.AssemblyInfoInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\obj\Debug\net6.0-windows\T17.AssemblyInfo.cs
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\obj\Debug\net6.0-windows\T17.csproj.CoreCompileInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\obj\Debug\net6.0-windows\T17.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\obj\Debug\net6.0-windows\refint\T17.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\obj\Debug\net6.0-windows\T17.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\obj\Debug\net6.0-windows\T17.genruntimeconfig.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\T17\T17\obj\Debug\net6.0-windows\ref\T17.dll
