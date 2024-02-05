@@ -37,6 +37,7 @@
             lopetaToolStripMenuItem = new ToolStripMenuItem();
             muotoileToolStripMenuItem = new ToolStripMenuItem();
             kirjasinToolStripMenuItem = new ToolStripMenuItem();
+            tallennaNimelläToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -61,7 +62,7 @@
             // 
             // tiedostoToolStripMenuItem
             // 
-            tiedostoToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { uusiToolStripMenuItem, avaaToolStripMenuItem, tallennaToolStripMenuItem, lopetaToolStripMenuItem });
+            tiedostoToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { uusiToolStripMenuItem, avaaToolStripMenuItem, tallennaToolStripMenuItem, lopetaToolStripMenuItem, tallennaNimelläToolStripMenuItem });
             tiedostoToolStripMenuItem.Name = "tiedostoToolStripMenuItem";
             tiedostoToolStripMenuItem.ShortcutKeys = Keys.Alt | Keys.F4;
             tiedostoToolStripMenuItem.Size = new Size(64, 20);
@@ -71,7 +72,7 @@
             // 
             uusiToolStripMenuItem.Name = "uusiToolStripMenuItem";
             uusiToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.N;
-            uusiToolStripMenuItem.Size = new Size(157, 22);
+            uusiToolStripMenuItem.Size = new Size(180, 22);
             uusiToolStripMenuItem.Text = "Uusi";
             uusiToolStripMenuItem.Click += uusiToolStripMenuItem_Click;
             // 
@@ -79,7 +80,7 @@
             // 
             avaaToolStripMenuItem.Name = "avaaToolStripMenuItem";
             avaaToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.O;
-            avaaToolStripMenuItem.Size = new Size(157, 22);
+            avaaToolStripMenuItem.Size = new Size(180, 22);
             avaaToolStripMenuItem.Text = "Avaa";
             avaaToolStripMenuItem.Click += avaaToolStripMenuItem_Click;
             // 
@@ -87,7 +88,7 @@
             // 
             tallennaToolStripMenuItem.Name = "tallennaToolStripMenuItem";
             tallennaToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.S;
-            tallennaToolStripMenuItem.Size = new Size(157, 22);
+            tallennaToolStripMenuItem.Size = new Size(180, 22);
             tallennaToolStripMenuItem.Text = "Tallenna";
             tallennaToolStripMenuItem.Click += tallennaToolStripMenuItem_Click;
             // 
@@ -95,7 +96,7 @@
             // 
             lopetaToolStripMenuItem.Name = "lopetaToolStripMenuItem";
             lopetaToolStripMenuItem.ShortcutKeys = Keys.Alt | Keys.F4;
-            lopetaToolStripMenuItem.Size = new Size(157, 22);
+            lopetaToolStripMenuItem.Size = new Size(180, 22);
             lopetaToolStripMenuItem.Text = "Lopeta";
             lopetaToolStripMenuItem.Click += lopetaToolStripMenuItem_Click;
             // 
@@ -114,6 +115,13 @@
             kirjasinToolStripMenuItem.Size = new Size(184, 22);
             kirjasinToolStripMenuItem.Text = "Kirjasin";
             kirjasinToolStripMenuItem.Click += kirjasinToolStripMenuItem_Click;
+            // 
+            // tallennaNimelläToolStripMenuItem
+            // 
+            tallennaNimelläToolStripMenuItem.Name = "tallennaNimelläToolStripMenuItem";
+            tallennaNimelläToolStripMenuItem.Size = new Size(180, 22);
+            tallennaNimelläToolStripMenuItem.Text = "Tallenna nimellä...";
+            tallennaNimelläToolStripMenuItem.Click += tallennaNimelläToolStripMenuItem_Click_1;
             // 
             // MuistioForm
             // 
@@ -143,5 +151,6 @@
         private ToolStripMenuItem lopetaToolStripMenuItem;
         private ToolStripMenuItem muotoileToolStripMenuItem;
         private ToolStripMenuItem kirjasinToolStripMenuItem;
+        private ToolStripMenuItem tallennaNimelläToolStripMenuItem;
     }
 }
