@@ -142,7 +142,7 @@
             this.titteliLB.Name = "titteliLB";
             this.titteliLB.Size = new System.Drawing.Size(59, 25);
             this.titteliLB.TabIndex = 9;
-            this.titteliLB.Text = "Tittlei";
+            this.titteliLB.Text = "Titteli";
             // 
             // vastuuhloCB
             // 
@@ -181,7 +181,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "AvainhenkilotForm";
             this.Text = "Uusiks kaikki";
             this.Load += new System.EventHandler(this.AvainhenkilotForm_Load);
