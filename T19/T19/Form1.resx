@@ -58,7 +58,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="button5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="koriBT.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAABGdBTUEAALGPC/xhBQAABL1JREFUWEft
         13nIplMYx/FBsjaICGXfUhLZyR+IP5AlZYsiSiP7kiUk+1q2SCR7lrFvkV32fTe2bGNfsxu9fp/nPdfr
@@ -84,7 +84,7 @@
         FtCECf8ApshpPVMd06YAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="button4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="herkutBT.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAABGdBTUEAALGPC/xhBQAAAyRJREFUWEfN
         2FuIDmEcx/GVQ2RRCjmWZCkpx+QU65ywWHGzidoL4kIkh8gNpbgQuZEUN1JqKSE5XLiQC+fThZxyCiWH
@@ -103,7 +103,7 @@
         GyP67fMRLRlVek3OuF9Q8ReB3t8MOoo9oQAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="juomatBT.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAABGdBTUEAALGPC/xhBQAAA5pJREFUWEe1
         2FuIVVUYwPEJIlMK6yG8FFhGV4VE6MG8FWVBRAm9lAxC4kv0JiZqKBQxmvUSBhEFRlEIUQgRUUTZY2lY
@@ -124,7 +124,7 @@
         jdVfMFwITcdNMxsDA/8BNO36zlXdwkwAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="button2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="ruoatBT.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAABGdBTUEAALGPC/xhBQAABGBJREFUWEfN
         mFeoHVUUhq8x9gdL8EGwEUVRI4IVleTBDnYUS0QsWIiiCCqCBQkJ1iARQexgw14wVgRBsfeOWKNJCGoU
