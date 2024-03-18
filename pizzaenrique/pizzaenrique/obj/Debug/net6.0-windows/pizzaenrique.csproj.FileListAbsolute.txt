@@ -1,0 +1,17 @@
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\bin\Debug\net6.0-windows\pizzaenrique.exe
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\bin\Debug\net6.0-windows\pizzaenrique.deps.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\bin\Debug\net6.0-windows\pizzaenrique.runtimeconfig.json
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\bin\Debug\net6.0-windows\pizzaenrique.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\bin\Debug\net6.0-windows\pizzaenrique.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\pizzaenrique.frm_front.resources
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\pizzaenrique.frm_items.resources
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\pizzaenrique.csproj.GenerateResource.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\pizzaenrique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\pizzaenrique.AssemblyInfoInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\pizzaenrique.AssemblyInfo.cs
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\pizzaenrique.csproj.CoreCompileInputs.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\pizzaenrique.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\refint\pizzaenrique.dll
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\pizzaenrique.pdb
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\pizzaenrique.genruntimeconfig.cache
+C:\Users\Ribulz\source\repos\ohjelmistokehittäjä\pizzaenrique\pizzaenrique\obj\Debug\net6.0-windows\ref\pizzaenrique.dll
