@@ -1,0 +1,7 @@
+C:\Users\HAl-m\Source\Repos\Humppu\Hotellijarjestelma\Kirjautumisikkuna\Kirjautumisikkuna\obj\Debug\Kirjautumisikkuna.csproj.AssemblyReference.cache
+C:\Users\HAl-m\Source\Repos\Humppu\Hotellijarjestelma\Kirjautumisikkuna\Kirjautumisikkuna\obj\Debug\Kirjautumisikkuna.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAl-m\Source\Repos\Humppu\Hotellijarjestelma\Kirjautumisikkuna\Kirjautumisikkuna\obj\Debug\Kirjautumisikkuna.exe.config
+C:\Users\HAl-m\Source\Repos\Humppu\Hotellijarjestelma\Kirjautumisikkuna\Kirjautumisikkuna\obj\Debug\Kirjautumisikkuna.Kirjautumisikkuna.resources
+C:\Users\HAl-m\Source\Repos\Humppu\Hotellijarjestelma\Kirjautumisikkuna\Kirjautumisikkuna\obj\Debug\Kirjautumisikkuna.Properties.Resources.resources
+C:\Users\HAl-m\Source\Repos\Humppu\Hotellijarjestelma\Kirjautumisikkuna\Kirjautumisikkuna\obj\Debug\Kirjautumisikkuna.csproj.GenerateResource.cache
+C:\Users\HAl-m\Source\Repos\Humppu\Hotellijarjestelma\Kirjautumisikkuna\Kirjautumisikkuna\obj\Debug\Kirjautumisikkuna.csproj.CoreCompileInputs.cache
